@@ -1,4 +1,4 @@
-package come.charles.array;
+package com.charles.start;
 
 public class ArrayDemo {
 

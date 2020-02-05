@@ -1,4 +1,4 @@
-package StaticDemo;
+package com.charles.start;
 
 public class StaticDemo {
 
