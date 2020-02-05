@@ -16,7 +16,7 @@ public class ArrayDemo {
             }
         }
 
-        System.out.printf("x is %X.\n", x);
+        System.out.printf("x is %X. \n", x);
 
 
     }
